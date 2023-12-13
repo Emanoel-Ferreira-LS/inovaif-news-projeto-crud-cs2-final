@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(240, 229, 255);
+    color: rgb(52, 52, 52);
+    font-family: Arial, Helvetica, sans-serif;
+    width: 95vw;
+    margin: 0;
+    padding: 0;
+}
+
+form{
+    padding: 20px;
+    border-radius: 15px;
+    margin: 50px auto;
+    background-color: rgba(209, 204, 204, 0.41);
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+input{
+    width: 85%;
+    margin: auto;
+}
+
+.error{
+    color: red;
+    text-align:center;
+    width: 100%;
+    margin:20px 0px;
+}

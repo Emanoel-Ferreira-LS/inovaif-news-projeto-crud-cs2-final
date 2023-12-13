@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.shellIntegration.suggestEnabled": true,
+    "C_Cpp.autocompleteAddParentheses": true,
+    "editor.inlineSuggest.enabled": true
+}
